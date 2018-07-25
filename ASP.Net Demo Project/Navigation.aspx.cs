@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace AireSpringProject
+namespace ASP.Net_Demo_Project
 {
     public partial class Navigation : System.Web.UI.Page
     {

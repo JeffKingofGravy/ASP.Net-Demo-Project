@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="AddEmployee.aspx.cs" Inherits="AireSpringProject.AddEmployee" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="AddEmployee.aspx.cs" Inherits="ASP.Net_Demo_Project.AddEmployee" %>
 
 <!DOCTYPE html>
 

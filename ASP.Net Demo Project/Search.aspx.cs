@@ -2,13 +2,12 @@
 using BusinessObjects;
 using System.Collections.Generic;
 using System.Linq;
-using System.Web;
-using System.Web.UI;
 using System.Web.UI.WebControls;
+using System.Web.UI;
 
-namespace AireSpringProject
+namespace ASP.Net_Demo_Project
 {
-    public partial class Search : System.Web.UI.Page
+    public partial class Search : Page
     {
         protected void searchBtn_Click(object sender, EventArgs e)
         {

@@ -78,5 +78,15 @@
     "UnformattedPhone": "5558908901",
     "Zip": "23456",
     "HireDate": "2017-07-22T00:00:00"
+  },
+  {
+    "EmployeeID": 9,
+    "LastName": "Kyle",
+    "FirstName": "Selina",
+    "FullName": "Selina Kyle",
+    "PhoneNumber": "(555)901-9012",
+    "UnformattedPhone": "5559019012",
+    "Zip": "12345",
+    "HireDate": "2017-08-23T00:00:00"
   }
 ]

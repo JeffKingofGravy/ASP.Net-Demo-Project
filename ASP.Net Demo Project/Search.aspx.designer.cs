@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace AireSpringProject {
+namespace ASP.Net_Demo_Project {
     
     
     public partial class Search {

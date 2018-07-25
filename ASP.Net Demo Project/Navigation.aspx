@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Navigation.aspx.cs" Inherits="AireSpringProject.Navigation" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Navigation.aspx.cs" Inherits="ASP.Net_Demo_Project.Navigation" %>
 
 <!DOCTYPE html>
 

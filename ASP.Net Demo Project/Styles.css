@@ -1,0 +1,21 @@
+﻿body {
+}
+
+.blockTitle {
+    margin: auto;
+    text-align: center;
+}
+
+.main {
+    border: thin;
+    border-color: darkgreen;
+    border-radius: 1em;
+    color: darkgreen;
+    margin: auto;
+    max-width: 70em;
+    text-align: center;
+}
+
+#searchSpan {
+    display: inline-block;
+}

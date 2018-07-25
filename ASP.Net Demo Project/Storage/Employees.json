@@ -1,0 +1,82 @@
+[
+  {
+    "EmployeeID": 1,
+    "LastName": "Wayne",
+    "FirstName": "Bruce",
+    "FullName": "Bruce Wayne",
+    "PhoneNumber": "(555)123-1234",
+    "UnformattedPhone": "5551231234",
+    "Zip": "12345",
+    "HireDate": "2017-01-16T00:00:00"
+  },
+  {
+    "EmployeeID": 2,
+    "LastName": "Grayson",
+    "FirstName": "Richard",
+    "FullName": "Richard Grayson",
+    "PhoneNumber": "(555)234-2345",
+    "UnformattedPhone": "5552342345",
+    "Zip": "12345",
+    "HireDate": "2017-02-17T00:00:00"
+  },
+  {
+    "EmployeeID": 3,
+    "LastName": "Todd",
+    "FirstName": "Jason",
+    "FullName": "Jason Todd",
+    "PhoneNumber": "(555)345-3456",
+    "UnformattedPhone": "5553453456",
+    "Zip": "12345",
+    "HireDate": "2017-03-18T00:00:00"
+  },
+  {
+    "EmployeeID": 4,
+    "LastName": "Drake",
+    "FirstName": "Timothy",
+    "FullName": "Timothy Drake",
+    "PhoneNumber": "(555)456-4567",
+    "UnformattedPhone": "5554564567",
+    "Zip": "12345",
+    "HireDate": "2017-04-19T00:00:00"
+  },
+  {
+    "EmployeeID": 5,
+    "LastName": "Wayne",
+    "FirstName": "Damian",
+    "FullName": "Damian Wayne",
+    "PhoneNumber": "(555)567-5678",
+    "UnformattedPhone": "5555675678",
+    "Zip": "12345",
+    "HireDate": "2017-05-20T00:00:00"
+  },
+  {
+    "EmployeeID": 6,
+    "LastName": "Gordon",
+    "FirstName": "Barbara",
+    "FullName": "Barbara Gordon",
+    "PhoneNumber": "(555)789-7890",
+    "UnformattedPhone": "5557897890",
+    "Zip": "12345",
+    "HireDate": "2017-06-21T00:00:00"
+  },
+  {
+    "EmployeeID": 7,
+    "LastName": "Pennyworth",
+    "FirstName": "Alfred",
+    "FullName": "Alfred Pennyworth",
+    "PhoneNumber": "(555)678-6789",
+    "UnformattedPhone": "5556786789",
+    "Zip": "12345",
+    "HireDate": "2017-01-18T00:00:00"
+  },
+  {
+    "EmployeeID": 8,
+    "LastName": "Gordon",
+    "FirstName": "James",
+    "FullName": "James Gordon",
+    "PhoneNumber": "(555)890-8901",
+    "UnformattedPhone": "5558908901",
+    "Zip": "23456",
+    "HireDate": "2017-07-22T00:00:00"
+  }
+]
